@@ -5,7 +5,7 @@ title: 'NanoMEC'
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "48px"
-  mobile_width: "150px"
+  mobile_width: "100px"
   desktop: "images/logo/logo.svg"
   desktop_height: "48px"
   desktop_width: "150px"
