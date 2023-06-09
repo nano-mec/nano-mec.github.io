@@ -10,7 +10,7 @@ The Nano-1 is a proof-of-concept lithography system aimed to bring a micron-scal
 
 # Objectives
 
-Provide a low-cost all-in-on 10s-of-microns and eventually micron-scale patterning system.
+Provide a low-cost all-in-one 10s-of-microns and eventually micron-scale patterning system.
 
 1. Provide spin coating of low-cost consumer-grade photo resins
 2. Utilize custom hardware with off-the-shelf consumer-grade LCD and DLP backbones.
@@ -19,8 +19,6 @@ Provide a low-cost all-in-on 10s-of-microns and eventually micron-scale patterni
 ## Relevance
 
 In a 2005 paper, JD Mustraves presented a ~10-micron scale maskless DLP projection lithography system built using <$5000 of consumer-grade hardware.
-
-https://doi.org/10.1119/1.1924491
 
 Commercial companies have improved on this process by releasing maskless DLP-based systems with resolutions approaching 1 micron. However, such systems often cost more than $100,000 and are unsuitable for hobbyist and small business markets.
 
@@ -39,3 +37,6 @@ NamoMEC can access to commercial-grade maskless lithography systems for direct c
 ### Understandability
 
 NanoMEC was founded by a lifelong learner and DIY hobbyist that understands the need of the community.
+
+### Reference
+J. David Musgraves, Brett T. Close, David M. Tanenbaum; <a href="https://doi.org/10.1119/1.1924491">A maskless photolithographic prototyping system using a low-cost consumer projector and a microscope.</a> American Journal of Physics 1 October 2005; 73 (10): 980–984.
