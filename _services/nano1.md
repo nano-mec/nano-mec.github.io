@@ -38,5 +38,5 @@ NamoMEC can access to commercial-grade maskless lithography systems for direct c
 
 NanoMEC was founded by a lifelong learner and DIY hobbyist that understands the need of the community.
 
-### Reference
+## Reference
 J. David Musgraves, Brett T. Close, David M. Tanenbaum; <a href="https://doi.org/10.1119/1.1924491">A maskless photolithographic prototyping system using a low-cost consumer projector and a microscope.</a> American Journal of Physics 1 October 2005; 73 (10): 980–984.

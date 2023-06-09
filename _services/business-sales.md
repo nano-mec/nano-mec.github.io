@@ -24,4 +24,4 @@ We provide consulting related to troubleshooting, repair, and upgrading of exist
 
 ## Cleanroom Consultation for Academia and Small Businesses
 
-Having played a critical role in the final stages of the recent renovation of the University of Virginia Cleanroom, I know what it takes to get a new or existing academic cleanroom running effectively.
+Having played a critical role in the final stages of the recent renovation of the <a href="https://engineering.virginia.edu/research/facilities/ifab">University of Virginia Innovations in Fabrication Lab</a> before founding NanoMEC LLC, I know what it takes to get a new or existing academic cleanroom running effectively.
