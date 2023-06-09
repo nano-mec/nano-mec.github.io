@@ -10,7 +10,7 @@ NanoMEC Provides engineering consulting services to everything cleanroom and mic
 
 # Consulting and Fabrication Services
 
-The NanoMEC team has over a decade of experience designing, building, modifying, and troubleshooting high-end cleanroom equipment and making the most sensitive detector circuits in the world.
+The NanoMEC team has over a decade of experience designing, building, modifying, and troubleshooting high-end cleanroom equipment and fabricating novel intregrated circuits.
 
 Having previously worked in an academic environment, we know what it takes to keep older systems running like new ones and modify them to suit your specific needs.
 
