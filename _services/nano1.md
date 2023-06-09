@@ -4,16 +4,16 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-The Nano-1 is a proof-of-concept lithography system aimed to bring a micron-scale solution to the hobbyist market utilizing recent advancements in low-cost consumer-grade DLP (Digital Light Processing) printing technology. This project is very early, and a white paper will be released in 2023.
+The Nano-1 is a proof-of-concept lithography system aimed to bring a micron-scale solution to the hobbyist market utilizing recent advancements in low-cost consumer-grade LCD and eventually DLP (Digital Light Processing) printing technology. This project is very early, and a white paper will be released in 4th quarter 2023.
 
 ![Accounting Services](/images/nano-1/wafer.png)
 
 # Objectives
 
-Provide a low-cost all-in-on micron-scale patterning system.
+Provide a low-cost all-in-on 10s-of-microns and eventually micron-scale patterning system.
 
 1. Provide spin coating of low-cost consumer-grade photo resins
-2. Utilize custom hardware with off-the-shelf consumer-grade DLP backbone.
+2. Utilize custom hardware with off-the-shelf consumer-grade LCD and DLP backbones.
 3. Utilize both an open source software and hardware platform to reduce barriers to entry for hobbyists, educators, and small businesses alike
 
 ## Relevance

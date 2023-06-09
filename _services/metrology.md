@@ -6,7 +6,11 @@ weight: 5
 
 NanoMEC provides metrology services inlcuded but not limited to Scanning Electron Microscopy (SEM), X-ray photoelectron spectroscopy (XPS), and white light interferometry.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/thickness.png)
 
 # Metrology Services
 
+- White Light interferometry
+- SEM imaging
+- ESD analysis
+- Ellipsometry

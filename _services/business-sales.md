@@ -6,21 +6,22 @@ weight: 2
 
 NanoMEC Provides engineering consulting services to everything cleanroom and microfabrication related.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/krion.jpg)
 
-# Full Wafer Fabrication Services
+# Consulting and Fabrication Services
 
-Financial accounting and financial reporting are often used as synonyms.
+The NanoMEC team has over a decade of experience designing, building, modifying, and troubleshooting high-end cleanroom equipment and making the most sensitive detector circuits in the world.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Having previously worked in an academic environment, we know what it takes to keep older systems running like new ones and modify them to suit your specific needs.
 
 ## Full Wafer Fabrication Services
 
+We provide consulting services to plan out the fabrication of new and novel circuits.
 
 ## Vacuum System Consulting Services
 
+We provide consulting related to troubleshooting, repair, and upgrading of existing vacuum systems.
 
 ## Cleanroom Consultation for Academia and Small Businesses
 
+Having played a critical role in the final stages of the recent renovation of the University of Virginia Cleanroom, I know what it takes to get a new or existing academic cleanroom running effectively.
